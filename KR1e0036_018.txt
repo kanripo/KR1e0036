@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 胡氏春秋傳
-#+DATE: 2015-09-23 09:39:34
-#+PROPERTY: JUAN 18
+#+DATE: 2015-08-24 22:13:47.660575
+#+PROPERTY: ID KR1e0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十八
 <pb:KR1e0036_WYG_018-1a>¶
 欽定四庫全書¶
 　春秋傳卷十八　　　　　宋　胡安國　撰¶
@@ -254,4 +256,3 @@
 　(仁者弗能也詞繁而不殺歸父之善自著矣比事以/觀則見當國者有無君之心此春秋所以作不可不)¶
 　(察/也)¶
 　春秋傳卷十八¶
-
